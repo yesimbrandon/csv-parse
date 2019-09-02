@@ -1,0 +1,5 @@
+user5,afirst,blast,test,insurance2, Version not an int
+,afirst,blast,1,insurance1, User ID is empty
+user9,,blast,1,insurance1, First Name is empty
+user10,afirst,,1,insurance1, Last Name is empty
+user11,afirst,blast,1,, Incorrect number of columns: 4
